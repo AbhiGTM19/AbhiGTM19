@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a developer with over 1.5 years of experience 
 ## 📫 How to reach me ...
 - Phone: +91 9691852081
 - Email: [abhishekgautam167@gmail.com](mailto:abhishekgautam167@gmail.com)
-- LinkedIn:[Abhishek Gautam](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: [Abhishek Gautam](https://www.linkedin.com/in/yourprofile)
 
 ## 💼 Work Experience
 - **Junior Application Programmer / MEAN & iOS Developer Trainee**  
