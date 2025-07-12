@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a developer with over 1.5 years of experience 
 ## 👀 I’m interested in ...
 - Web Development
 - Mobile App Development
-- Backend Development
+- MLOPs
 - Open Source Contributions
 
 ## 🌱 I’m currently learning ...
