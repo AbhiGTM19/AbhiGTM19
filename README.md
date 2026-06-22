@@ -27,17 +27,17 @@ Currently completing my **M.Tech in Applied AI at VNIT Nagpur**, I bridge the ga
 
 ## 📂 Featured AI & Infrastructure Projects
 
-### 🏥 [MedVision-NLP — Clinical Classification & RAG Assistant](https://huggingface.co/spaces/abhshkgtm19/MedVision-NLP)
+### [MedVision-NLP — Clinical Classification & RAG Assistant](https://huggingface.co/spaces/abhshkgtm19/MedVision-NLP)
 An asynchronous N-Tier clinical assistant combining medical OCR classification with Retrieval-Augmented Generation.
 *   **The Tech:** Asynchronous FastAPI, ASGI (Uvicorn), Fine-tuned `Bio_ClinicalBERT`, ChromaDB, Gemini LLM, PyTorch Captum, Docker.
 *   **Key Features:** Real-time chatbot interaction streamed via Server-Sent Events (SSE), transparent feature attribution maps, and an automated deployment pipeline with DVC and Evidently.ai monitoring.
 
-### ⚙️ [BTE Predictor App — Production-Grade ML Lifecycle](https://huggingface.co/spaces/abhshkgtm19/BTE-Predictor-App)
+### [BTE Predictor App — Production-Grade ML Lifecycle](https://huggingface.co/spaces/abhshkgtm19/BTE-Predictor-App)
 A highly optimized machine learning engine focused on decoupling application runtime from underlying mathematical artifacts, accepted for publication at **PCEMS-2025 Springer (VNIT Nagpur)**.
 *   **The Tech:** FastAPI backend, MLflow Model Registry, Ridge Regression, Multi-stage Docker, GitHub Actions.
 *   **Key Features:** Configured runtime lifecycle hooks to stream optimization weights strictly once at server initialization, completely avoiding bloat inside the deployment container image.
 
-### 📐 Multimodal Deep Survival Model (Academic Thesis)
+### Multimodal Deep Survival Model (Academic Thesis)
 An end-to-end deep learning framework designed to predict longitudinal disease outcomes, accepted for publication at **RTES-2026 (SVNIT Surat)**.
 *   **The Tech:** PyTorch, FastAPI backend, Angular web interface.
 *   **Key Features:** Orchestrated cross-modal feature alignment to ingest and process disparate clinical biomarkers alongside structural X-ray imagery from the NIH-OAI database.
