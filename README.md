@@ -34,7 +34,7 @@ I'm a **Generative AI Engineer** with 2.5+ years of software engineering experie
 *   Engineered a hybrid dense-sparse retrieval layer over ChromaDB and BM25 using Reciprocal Rank Fusion (RRF) and dynamic semantic chunk pruning, achieving 97.8% Answer Relevancy and 91.4% Clinical Fact Correctness on offline RAGAS/DeepEval benchmarks.
 *   Built real-time SSE streaming with LangSmith trace telemetry, sub-500ms median TTFT, and a regex-based medication dosage validation layer, fully containerized via multi-stage Docker and GitHub Actions CI/CD.
 
-### Multimodal Deep Survival Model | *Manuscript Under Review, RTES 2026 (SVNIT Surat)*
+### Multimodal Deep Survival Model | *Manuscript Under Review, RTES 2026 (SVNIT Surat)* — [GitHub](https://github.com/AbhiGTM19/oa-survival-model)
 *   Engineered a PyTorch deep survival neural network (Swin-V2-T, GRU-D) on the NIH-OAI cohort (9,592 knees from 4,796 participants, tracked across 15 visits over 14 years, 935 TKR events) to predict knee replacement risk, reaching a 0.847 C-Index and resolving ~88% biomarker sparsity via learned exponential decay and cross-modal attention.
 *   Optimized inference to sub-second latency via OpenVINO IR and NNCF INT8 quantization, and integrated Grad-CAM and SHAP explainability into a FastAPI backend with an Angular dashboard.
 
